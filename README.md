@@ -1,5 +1,1 @@
-<p align="center">
-<picture>
-  <source srcset="/YouJustGetTrolledLOL.jpg">
-</picture>
-</p>
+![You Just Got Trolled LOL](YouJustGetTrolledLOL.jpg)
